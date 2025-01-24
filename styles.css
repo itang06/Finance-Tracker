@@ -1,0 +1,26 @@
+.row {
+  justify-content: center;
+}
+
+#chart {
+  align-items: center;
+  min-width: 700px;
+  min-height: 400px;
+  max-height: 500px;
+}
+
+#myChart {
+  min-width: 450px;
+  min-height: 200px;
+  max-height: 500px;
+}
+button {
+  width: 100px;
+}
+
+header {
+  text-align: center;
+}
+#data {
+  text-align: center;
+}

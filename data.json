@@ -1,0 +1,38 @@
+[
+  {
+    "month": "Jan",
+    "revenue": 5000,
+    "costs": 3200,
+    "profit": 1800
+  },
+  {
+    "month": "Feb",
+    "revenue": 5500,
+    "costs": 3400,
+    "profit": 2100
+  },
+  {
+    "month": "Mar",
+    "revenue": 4800,
+    "costs": 3100,
+    "profit": 1700
+  },
+  {
+    "month": "Apr",
+    "revenue": 6000,
+    "costs": 3600,
+    "profit": 2400
+  },
+  {
+    "month": "May",
+    "revenue": 5800,
+    "costs": 3500,
+    "profit": 2300
+  },
+  {
+    "month": "Jun",
+    "revenue": 6200,
+    "costs": 3800,
+    "profit": 2400
+  }
+]
