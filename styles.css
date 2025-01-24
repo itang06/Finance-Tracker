@@ -4,16 +4,16 @@
 
 #chart {
   align-items: center;
-  min-width: 700px;
-  min-height: 400px;
-  max-height: 500px;
+  min-width: 900px;
+  min-height: 500px;
+  margin: 0 auto;
 }
 
 #myChart {
-  min-width: 450px;
-  min-height: 200px;
-  max-height: 500px;
+  width: 100%;
+  height: 100%;
 }
+
 button {
   width: 100px;
 }
@@ -21,6 +21,9 @@ button {
 header {
   text-align: center;
 }
+
 #data {
   text-align: center;
+  width: 900px;
+  margin: 0 auto;
 }

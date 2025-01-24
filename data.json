@@ -34,5 +34,41 @@
     "revenue": 6200,
     "costs": 3800,
     "profit": 2400
+  },
+  {
+    "month": "Jul",
+    "revenue": 6500,
+    "costs": 3900,
+    "profit": 2600
+  },
+  {
+    "month": "Aug",
+    "revenue": 6800,
+    "costs": 4100,
+    "profit": 2700
+  },
+  {
+    "month": "Sep",
+    "revenue": 6300,
+    "costs": 3800,
+    "profit": 2500
+  },
+  {
+    "month": "Oct",
+    "revenue": 7000,
+    "costs": 4200,
+    "profit": 2800
+  },
+  {
+    "month": "Nov",
+    "revenue": 7200,
+    "costs": 4300,
+    "profit": 2900
+  },
+  {
+    "month": "Dec",
+    "revenue": 7500,
+    "costs": 4500,
+    "profit": 3000
   }
 ]
